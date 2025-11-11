@@ -1,0 +1,10 @@
+scikit-learn
+yfinance
+pandas
+numpy == 1.26.4
+mplfinance
+seaborn
+tensorflow
+pmdarima
+finnhub-python
+nltk
